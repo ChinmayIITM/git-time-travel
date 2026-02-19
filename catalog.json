@@ -31,7 +31,7 @@
   "aggregations": {
     "sports": {
       "count": 9,
-      "inventoryValue": 298277.73
+      "inventoryValue": 305261.16000000003
     },
     "electronics": {
       "count": 4,
